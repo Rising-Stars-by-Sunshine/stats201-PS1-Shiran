@@ -17,3 +17,5 @@ In 2020 (age 12), he completed the Hsue-Shen Tsien Excellence in Engineering Pro
 In 2021 (age 13), he was admitted to DKU with a full scholarship, and received the top prize at X-Institute (an academic research institution founded by Tsinghua University) Summer Camp.
 
 In 2022 (age 14), he became an X-Institute Scholar, and received the Silver Medal in the iGEM Competition.
+
+His current intended major is Applied Mathematics and Computational Sciences (Computer Science Track).
